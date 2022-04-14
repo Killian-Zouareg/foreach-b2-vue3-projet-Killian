@@ -4,7 +4,8 @@
 
 Le but de ce projet est de créer votre portfolio ou site CV à l'aide de Vue.js 3 et Vite.
 C'est le moment de faire un projet qui vous ressemble que vous sera utile!
-Vous êtes libre de choisir de faire le projet avec TypeScript ou non, cela n'impactera pas
+Vous êtes libre de choisir de faire le projet avec TypeScript ou non, cela n'impactera pas.
+Vous proposerez un formulaire (avec des composants) pour vous contacter.
 
 ## Comment le projet est-il evalué ?
 
